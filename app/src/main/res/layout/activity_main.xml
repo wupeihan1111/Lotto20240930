@@ -15,7 +15,7 @@
         android:layout_height="wrap_content"
         android:onClick="happy"
         android:text="樂透"
-        android:textSize="30sp"
+        android:textSize="32sp"
         />
 
     <TextView
